@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJAbFhAEaTAIREwS1A0ruplr9pUxRjqfHu10I1+3WpHO7bn0ptiBYHcOtv4pF77x+Xze6FqhFLn4jF5EZ9ZuoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emman\\Documents\\Third Year\\Dsw3A\\Tutorials\\219114578_TUT1\\TUT1_Question1\\TUT1_Question1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\emman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\emman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\emman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

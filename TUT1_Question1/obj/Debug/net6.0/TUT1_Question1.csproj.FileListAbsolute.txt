@@ -1,0 +1,14 @@
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\bin\Debug\net6.0\TUT1_Question1.exe
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\bin\Debug\net6.0\TUT1_Question1.deps.json
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\bin\Debug\net6.0\TUT1_Question1.runtimeconfig.json
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\bin\Debug\net6.0\TUT1_Question1.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\bin\Debug\net6.0\TUT1_Question1.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\TUT1_Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\TUT1_Question1.AssemblyInfoInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\TUT1_Question1.AssemblyInfo.cs
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\TUT1_Question1.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\TUT1_Question1.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\refint\TUT1_Question1.dll
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\TUT1_Question1.pdb
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\TUT1_Question1.genruntimeconfig.cache
+C:\Users\emman\Documents\Third Year\Dsw3A\Tutorials\219114578_TUT1\TUT1_Question1\obj\Debug\net6.0\ref\TUT1_Question1.dll
